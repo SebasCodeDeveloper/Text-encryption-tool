@@ -221,16 +221,16 @@ textarea {
     .contenedor-flex {
         flex-direction: column;
         margin: 0;
-        padding: 2rem;
-        margin-top: 2rem;
+        padding: 5%;
+        margin-top: 1rem;
     }
     .padding-mediano {
           position: relative;
         height: auto;
-        left: -2.3px;
+        left: 0px;
         transform: none;
-        top: 13px;
-        width: 98%;
+        top: 25px;
+        width: 95%;
     }
 
     .boton-secundario,

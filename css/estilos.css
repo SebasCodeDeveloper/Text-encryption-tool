@@ -216,3 +216,39 @@ textarea {
  textarea::placeholder{
         color: #0A3871; /* Color del texto */
 }
+
+
+@media (max-width: 768px) {
+    .contenedor-flex {
+        flex-direction: column;
+        margin: 0;
+        padding: 2rem;
+        margin-top: 2rem;
+        
+    }
+    .padding-mediano {
+        position: relative;
+        width: 90%;
+        height: auto;
+        left: 8px;
+        transform: none;
+        top: 40px;
+    }
+    .boton-secundario,
+    .boton-mute {
+        width: 100%;
+    }
+
+    textarea {
+        width: 100%;
+        margin: 0;
+        height: 200px;
+        font-size: 1.2rem;
+    }
+
+    .texto-1 {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        padding: 0.5rem;
+    }
+}

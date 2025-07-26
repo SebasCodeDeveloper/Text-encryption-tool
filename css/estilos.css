@@ -171,7 +171,6 @@ body {
 
 .imagen {
     display: block;
-    padding: 10%;
 }
 
 .contenido-centro {
@@ -229,7 +228,7 @@ textarea {
         height: auto;
         left: 3px;
         transform: none;
-        top: 25px;
+        top: 20px;
         width: 94%;
         height: 460px;
     }
@@ -249,6 +248,6 @@ textarea {
         font-size: 1rem;
         line-height: 1;
         padding: 1px;
-        margin-top: 30px;
+        margin-top: 20px;
     }
 }

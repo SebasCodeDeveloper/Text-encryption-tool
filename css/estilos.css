@@ -177,7 +177,6 @@ body {
 .contenido-centro {
     display: flex;
     flex-direction: column;
-    align-items: center;
     text-align: center;
     border-radius: 32px;
 }
@@ -218,22 +217,22 @@ textarea {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 868px) {
     .contenedor-flex {
         flex-direction: column;
         margin: 0;
         padding: 2rem;
         margin-top: 2rem;
-        
     }
     .padding-mediano {
-        position: relative;
-        width: 100%;
+          position: relative;
         height: auto;
-        left: 1px;
+        left: -2.3px;
         transform: none;
-        top: 40px;
+        top: 13px;
+        width: 98%;
     }
+
     .boton-secundario,
     .boton-mute {
         width: 100%;
@@ -243,7 +242,7 @@ textarea {
         width: 100%;
         margin: 0;
         height: 200px;
-        font-size: 1.2rem;
+
     }
 
     .texto-1 {

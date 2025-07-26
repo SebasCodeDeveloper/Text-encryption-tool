@@ -227,10 +227,10 @@ textarea {
     .padding-mediano {
         position: relative;
         height: auto;
-        left: 14px;
+        left: 6px;
         transform: none;
         top: 25px;
-        width: 89%;
+        width: 93%;
     }
 
     .boton-secundario,

@@ -223,7 +223,6 @@ textarea {
         margin: 0;
         padding: 5%;
        
-       
     }
     .padding-mediano {
         position: relative;
@@ -247,9 +246,9 @@ textarea {
     }
 
     .texto-1 {
-        font-size: 1rem;
-        line-height: 0;
+        font-size: 1.1rem;
+         line-height: 1;
         padding: 1px;
-        margin-top: 1px;
+        margin-top: 40px;
     }
 }

@@ -217,7 +217,7 @@ textarea {
 }
 
 
-@media (max-width: 868px) {
+@media (max-width: 768px) {
     .contenedor-flex {
         flex-direction: column;
         margin: 0;
@@ -227,7 +227,7 @@ textarea {
     .padding-mediano {
           position: relative;
         height: auto;
-        left: 0px;
+        left: 2px;
         transform: none;
         top: 25px;
         width: 95%;
